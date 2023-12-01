@@ -1,3 +1,6 @@
+# Hi, I'm Harsh 👋
+
+
 # 💫 About Me:
 👨‍💻 **Working on:**<br>Employee Management System with Spring and Angular.<br><br>🤝 **Collaborating on:**<br>Exciting Java Spring projects, REST API development.<br><br>🔍 **Seeking help with:**<br>Navigating job market, securing a fresher software developer role in India.<br><br>📚 **Learning:**<br>Spring framework, Java development, full-stack skills.<br><br>💬 **Ask me about:**<br>Coding, backend REST API development.<br><br>🌐 **Fun fact:**<br>The term "bug" in programming originated in 1947 when Grace Hopper found an actual moth causing issues in the Harvard Mark II computer. She removed the moth and taped it to the logbook, coining the term "debugging."<br>
 
